@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AffirmationsKnight</string>
+
+    <string name="affirmation1">You are capable of amazing things.</string>
+    <string name="affirmation2">Believe in yourself and your abilities.</string>
+    <string name="affirmation3">Every day is a fresh start.</string>
+    <string name="affirmation4">You make a positive difference.</string>
+    <string name="affirmation5">Keep moving forward, one step at a time.</string>
+    <string name="affirmation6">Your potential is limitless.</string>
+    <string name="affirmation7">You are stronger than you think.</string>
+    <string name="affirmation8">Choose happiness and gratitude.</string>
+    <string name="affirmation9">Your hard work will pay off.</string>
+    <string name="affirmation10">You deserve good things.</string>
+
+</resources>
